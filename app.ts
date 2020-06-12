@@ -1,5 +1,3 @@
-let userInput: unknown;
+const greeting = 'Hello TS';
 
-userInput = {};
-userInput = [];
-userInput = null;
+console.log(greeting);
